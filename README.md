@@ -1,0 +1,2 @@
+# analysis-of-possible-future-crimes
+ Let's use a data set of past crimes from the last 5 years or 10 years.  Let's take the training and test results.  Let's find the degree of accuracy by comparing with the current year.  So let's create a suitable algorithm.  So what will happen next year?  When and where the crime will be committed.  Is it possible to predict that such crimes could occur?  can you
